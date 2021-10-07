@@ -1,7 +1,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jagadeeshi2i&show_icons=true)
 
 - Hi, I’m Jagadeesh
-- I’m currently working on KFServing, Kubeflow Pipelines and Torchserve.
+- I’m currently working on KServe, Kubeflow Pipelines and Torchserve.
 - Reach me on slack and email.
 
 <!---

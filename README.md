@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **KServe, Kubeflow Pipelines and Torchserve**
 
-- 📫 How to reach me **slack**
+- 📫 How to reach me **jagadeeshj@ideas2it.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Jagadeesh</h1>
-<h3 align="center">Technical Analyst at ideas2IT, Open Source Enthusiast</h3>
+<h3 align="center">Technical Analyst at Ideas2IT, Open Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshi2i" alt="jagadeeshi2i" /> </p>
 
-- 🔭 I'm working at [ideas2IT](https://www.ideas2it.com/) as a Technical Analyst
+- 🔭 I'm working at [Ideas2IT](https://www.ideas2it.com/) as a Technical Analyst
 
 - 🌱 I’m currently working on **KServe, Kubeflow Pipelines and Torchserve**
 

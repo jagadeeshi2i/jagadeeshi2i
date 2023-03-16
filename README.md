@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshi2i" alt="jagadeeshi2i" /> </p>
 
-- 🔭 I'm working at [Ideas2IT](https://www.ideas2it.com/) as a Technical Analyst
-
-- 🌱 I’m currently working on **KServe, Kubeflow Pipelines and Torchserve**
+- :office: I'm working at [Ideas2IT](https://www.ideas2it.com/) as a Technical Analyst
+- :trophy: I’m currently working on **KServe, Kubeflow Pipelines and Torchserve**
+- :email: I can be reached at jagadeeshj@live.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshi2i&layout=compact" alt="jagadeeshi2i" /></p>
 

@@ -20,5 +20,3 @@ I'm passionate about coding, problem-solving, and building cool software. Welcom
 
 Thanks for stopping by! Explore my repositories and feel free to leave feedback or suggestions. Happy coding! 🚀
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jagadeeshi2i&show_icons=true" alt="jagadeeshi2i" />
-

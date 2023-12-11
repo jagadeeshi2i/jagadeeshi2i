@@ -15,7 +15,7 @@ I'm passionate about coding, problem-solving, and building cool software. Welcom
 
 ### Let's Connect
 
-- 📫 Feel free to reach out to me here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/jagadeeshjaganathan/).
+- 📫 Feel free to reach out to me here on GitHub.
 - 📢 I'm always open to collaboration and learning from fellow developers.
 
 Thanks for stopping by! Explore my repositories and feel free to leave feedback or suggestions. Happy coding! 🚀

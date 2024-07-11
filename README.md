@@ -10,7 +10,6 @@ I'm passionate about coding, problem-solving, and building cool software. Welcom
 
 ### What You'll Find Here
 
-- 🧑‍💻 A collection of my coding projects and experiments.
 - 🌐 Contributions to open-source projects that I'm passionate about.
 
 ### Let's Connect
@@ -18,5 +17,5 @@ I'm passionate about coding, problem-solving, and building cool software. Welcom
 - 📫 Feel free to reach out to me here on GitHub.
 - 📢 I'm always open to collaboration and learning from fellow developers.
 
-Thanks for stopping by! Explore my repositories and feel free to leave feedback or suggestions. Happy coding! 🚀
+Thanks for stopping by! Happy coding! 🚀
 

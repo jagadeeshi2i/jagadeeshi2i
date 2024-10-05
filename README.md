@@ -5,7 +5,6 @@ I'm passionate about coding, problem-solving, and building cool software. Welcom
 ### About Me
 
 - 💻 I enjoy working on a variety of projects, from web development to machine learning.
-- 🌐 My goal is to contribute to the open-source community and collaborate on exciting projects.
 - 📚 I'm constantly learning and exploring new technologies to expand my skill set.
 
 ### What You'll Find Here
@@ -15,7 +14,7 @@ I'm passionate about coding, problem-solving, and building cool software. Welcom
 ### Let's Connect
 
 - 📫 Feel free to reach out to me here on GitHub.
-- 📢 I'm always open to collaboration and learning from fellow developers.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jagadeeshjaganathan/)
 
 Thanks for stopping by! Happy coding! 🚀
 

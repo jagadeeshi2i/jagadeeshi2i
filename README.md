@@ -11,10 +11,5 @@ I'm passionate about coding, problem-solving, and building cool software. Welcom
 
 - 🌐 Contributions to open-source projects that I'm passionate about.
 
-### Let's Connect
-
-- 📫 Feel free to reach out to me here on GitHub.
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jagadeeshjaganathan/)
-
 Thanks for stopping by! Happy coding! 🚀
 
